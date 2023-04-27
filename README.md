@@ -1,5 +1,5 @@
 # Data analysis portfolio
-This is repository that I have created to showcase skills, share porjects and track my progress in data analytics / data science related topics
+This is repository that I have created to showcase skills, share projects and track my progress in data analytics / data science related topics
 ## Projects
 This Section contains the links to code and notebooks I created for various projects and learning libraries.
 ### IBM data science capstone project
