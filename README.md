@@ -16,7 +16,7 @@ This repository contains code and notebooks related to formula1 data analysis. W
 **Description**<br>
 This repository containg the notes related to pyspark library. We use pyspark functions for data pre processing and fit the data to machine learning models like clutering, regression, etc.
 <br>
-**Repository:**[link](https://github.com/harshalingala/pyspark-tutorial)
+**Repository:** [link](https://github.com/harshalingala/pyspark-tutorial)
 ### Miscellaneous
 **Description:**<br>
 This repositort contains the codes created while learning various libraries.
